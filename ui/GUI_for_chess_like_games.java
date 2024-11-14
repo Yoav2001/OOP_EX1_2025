@@ -1,3 +1,12 @@
+package ui;
+
+import GameUtils.Move;
+import GameUtils.Position;
+import interfaces.Disc;
+import interfaces.PlayableLogic;
+import players.AIPlayer;
+import players.Player;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,3 +1,7 @@
+package interfaces;
+
+import GameUtils.Position;
+
 import java.util.List;
 
 /**
